@@ -1,0 +1,54 @@
+
+
+
+body {
+  font-family: "poppins" ,sans-serif;
+  color: #3f261b;
+  background-color: #fff6ec;
+}
+
+.navbar_brand { 
+  font-family: "poppins" ,sans-serif;
+  background-color: #fffffff3 ;
+}
+
+.col-md-6 h1 {
+font-family: "poppins", sans-serif;
+font-size: 1rem;
+}
+
+#productos {
+  padding-top: 4.5rem!important;
+
+}
+
+#escribinos {
+        padding-top: 4.5rem!important;
+
+}
+
+#tienda
+{
+  padding-top: 4rem!important;
+
+}
+#footer{
+  background-color: rgb(146, 144, 144)!important;
+  
+}
+
+
+#copyright {
+      font-size: 0.75rem;
+}
+
+#encontranos {
+  padding-top: 4.5rem!important;
+  padding-bottom: 4.5rem!important; 
+
+}
+
+
+.container-contacto {
+  margin-top: 80px;
+}
